@@ -1,3 +1,4 @@
+library(Sleuth3)
 str(case1701)
 attach(case1701)
 ## EXPLORATION
